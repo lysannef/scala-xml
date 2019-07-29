@@ -1,5 +1,9 @@
 language: scala
 
+os:
+  - linux
+  - linux-ppc64le
+
 scala:
   - 2.12.8
   - 2.13.0
